@@ -1,0 +1,15 @@
+{
+    "name": "@upn2xt/getajoke",
+    "version": "1.0.0",
+    "license": "MIT",
+    "description": "Get a random joke!",
+    "repository": "upn2xt/getajoke",
+    "main": "index.js",
+    "keywords": [
+        "joke",
+        "jokes",
+        "npm",
+        "package",
+        "bamblehorse"
+    ]
+}
